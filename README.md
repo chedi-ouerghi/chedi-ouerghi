@@ -41,7 +41,7 @@ Here are some projects I've worked on that showcase my skills and expertise:
 
 ## 🌐 Connect With Me
 
-- 🔗 **LinkedIn**: [chedi-ouerghi-21860a24a](https://www.linkedin.com/in/chedi-ouerghi/)
+- 🔗 **LinkedIn**: [chedi-ouerghi-21860a24a](https://www.linkedin.com/in/chedi-ouerghi-21860a24a/)
 - 🌐 **Portfolio**: [chediouerghi.dev](https://www.chediouerghi.dev/)](https://main--portfoliochediouerghi1.netlify.app/?fbclid=IwZXh0bgNhZW0CMTAAAR18qImEUYoacYoDOzK9o7fcxY4s7QI4tkV-GyUYb3wCA_ZlFPg6Dr7sI5A_aem_AdkRABRJbWFgk-nC2_0KoLLljFLN2zveYqeGPM460DV2YiqaYlphcEQ7r4oD7nXvrC9fUaN9JH7qBZCKEYacvXhv)
 - 📧 **Email**: chediouerghi88@gmail.com
 
