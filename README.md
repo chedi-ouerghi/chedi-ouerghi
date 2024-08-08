@@ -42,7 +42,7 @@ Here are some projects I've worked on that showcase my skills and expertise:
 ## 🌐 Connect With Me
 
 - 🔗 **LinkedIn**: [chedi-ouerghi-21860a24a](https://www.linkedin.com/in/chedi-ouerghi-21860a24a/)
-- 🌐 **Portfolio**: [chediouerghi.dev](https://www.chediouerghi.dev/)]()
+- 🌐 **Portfolio**: [chediouerghi.dev](https://portfoliochedi.netlify.app/)]()
 - 📧 **Email**: chediouerghi88@gmail.com
 
 Feel free to reach out if you're interested in collaborating on projects or discussing potential opportunities!
