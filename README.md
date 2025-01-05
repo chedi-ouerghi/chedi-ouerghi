@@ -70,7 +70,7 @@ Outil complet conçu avec SQL pour gérer efficacement les processus comptables.
 ## 🌐 Connect With Me
 
 - 🔗 **LinkedIn** : [chedi-ouerghi-21860a24a](https://www.linkedin.com/in/chedi-ouerghi-21860a24a/)  
-- 🌐 **Portfolio** : [chediouerghi.dev](https://portfoliochedi.netlify.app/)  
+- 🌐 **Portfolio** : [chediouerghi.dev](https://my-portfolio-2025-tan.vercel.app/)  
 - 📧 **Email** : chediouerghi40@gmail.com  
 
 🎯 Intéressé par une collaboration ou une opportunité ? N’hésitez pas à me contacter ! 🚀
