@@ -34,38 +34,6 @@ Je suis **Chedi Ouerghi**, un **Développeur Full Stack passionné** avec une so
 
 ---
 
-## 📞 Projets Réalisés
-
-### 🌐 1. Dewini - Plateforme d'Aide Humanitaire  
-Plateforme web et desktop mettant en relation médecins, associations et donateurs.  
-
-- **Design UI/UX** : Conception des parcours utilisateurs et prototypes via Figma.  
-- **Outils Collaboratifs** : Organisation avec Trello et Miro.  
-
----
-
-### 📋 2. Système de Gestion de Feuilles de Temps  
-Application de suivi des feuilles de temps des employés.  
-
-- **Frontend** : Interface réactive développée avec Angular.  
-- **Backend** : Traitement robuste avec Spring Boot et MySQL.  
-
----
-
-### 🛒 3. Boutique en Ligne  
-E-commerce réalisé avec React et intégration d’API externes pour une expérience utilisateur engageante.  
-
----
-
-### 💬 4. Application de Chat en Temps Réel  
-Plateforme de communication interactive utilisant React et React Chat Engine.  
-
----
-
-### 📊 5. Système de Gestion Comptable  
-Outil complet conçu avec SQL pour gérer efficacement les processus comptables.  
-
----
 
 ## 🌐 Connect With Me
 
