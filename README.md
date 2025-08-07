@@ -1,48 +1,57 @@
-# 🌟 Chedi Ouerghi - Full Stack Web Developer 🌟
-
-👋 **Bonjour !**  
-
-  Je suis **Chedi Ouerghi**, un **Développeur Full Stack passionné** avec une solide expérience dans la création d’applications web, mobiles et desktop modernes, robustes et évolutives.     Grâce à ma maîtrise des technologies frontend et backend, je conçois des expériences utilisateur fluides et performantes, de bout en bout.
-
----
-
-## 🛠️ Compétences Techniques
-
-### Frontend  
-- 💻 **Angular** : Développement d’applications SPA modernes et dynamiques avec TypeScript.  
-- 🌐 **Vue.js** : Création d’interfaces utilisateur intuitives et maintenables.  
-- 💻 **React & Next.js & React Native** : Développement d’interfaces utilisateur interactives, dynamiques, de sites web performants avec rendu côté serveur, ainsi que d’applications mobiles multiplateformes. 
-
-### Backend  
-- 🔄 **Spring Boot** : Conception d’API REST sécurisées et de microservices évolutifs.  
-- 🔄 **Node.js & NestJS ** : Développement d’applications serveur performantes avec une architecture modulaire, scalable et maintenable en TypeScript.
-- 🐐 **PHP** : Création d’applications dynamiques et d’API.  
-- ✨ **Python** : Automatisation de tâches et développement backend.  
-- ⚡ **Laravel** : Exploitation de l'architecture MVC et de l’écosystème Laravel.
-
-### Bases de Données  
-- 📊 **SQL** : Modélisation et gestion de bases relationnelles ,Conception de requêtes complexes et optimisation.  
-- 📓 **NOSQL=> (MongoDB)** : Stockage de données flexible et évolutif (NoSQL).
-
-### Design & Collaboration  
-- 🎨 **Figma** : Création et prototypage d’interfaces utilisateur.  
-- 📋 **Trello & Miro** : Gestion de flux utilisateurs, wireframes et workflows.
-- 📅 **Jira** : Gestion agile de projets avec suivi des tâches, sprints et rapports personnalisés.
-
-  
-### DevOps & Déploiement  
-- 🛠️ **Docker** : Conteneurisation pour des déploiements évolutifs.
-- 🛠️ **Jenkins** : Automatisation CI/CD pour construire, tester et déployer rapidement les applications.
-- 💾 **GitHub Actions / GitLab CI** : Pipelines d’intégration et déploiement continus intégrés aux plateformes Git.
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 
----
+# 👋 Hello, I'm Chedi Ouerghi
 
 
-## 🌐 Connect With Me
+**Senior Full Stack Developer | Cloud Solutions Architect**
 
-- 🔗 **LinkedIn** : [chedi-ouerghi-21860a24a](https://www.linkedin.com/in/chedi-ouerghi-21860a24a/)  
-- 🌐 **Portfolio** : [chediouerghi.dev](https://my-portfolio-2025-tan.vercel.app/)  
-- 📧 **Email** : chediouerghi40@gmail.com  
+## Professional Summary
 
-🎯 Intéressé par une collaboration ou une opportunité ? N’hésitez pas à me contacter ! 🚀
+I am **Chedi Ouerghi**, a results-driven **Full Stack Developer** with extensive experience in architecting and implementing enterprise-grade web applications, mobile solutions, and desktop platforms. My expertise spans the complete software development lifecycle, with particular proficiency in crafting high-performance, scalable systems that deliver exceptional user experiences.
+
+With comprehensive knowledge of both frontend and backend ecosystems, I specialize in building seamless, end-to-end digital solutions that combine technical excellence with intuitive design. My work emphasizes clean architecture patterns, robust API design, and optimized performance across all technology stacks.
+
+**📫 Let's Connect**
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-2025-tan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chedi-ouerghi-21860a24a/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chediouerghi40@gmail.com)
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chedi-ouerghi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chedi-ouerghi&layout=compact&theme=radical)
+
+## 🚀 Latest Projects
+
+1. **[Flat Booker Pro](https://github.com/chedi-ouerghi/flat-booker-pro)** - A comprehensive real estate booking platform featuring property listings, reservation management, and payment integration. Built with modern web technologies to deliver seamless user experiences. ([Live Demo](#) | [Source Code](https://github.com/chedi-ouerghi/flat-booker-pro))
+
+2. **[Weather Analytics Dashboard](https://github.com/chedi-ouerghi/weather_app)** - Real-time weather application providing detailed forecasts, historical data visualization, and location-based alerts. Implemented with accurate meteorological data APIs. ([Live Demo](#) | [Source Code](https://github.com/chedi-ouerghi/weather_app))
+
+3. **[BigScreen Survey Platform](https://github.com/chedi-ouerghi/Bigscreen)** - Enterprise-grade survey solution for BigScreen Corporation, enabling large-scale data collection, analytics dashboard, and automated reporting features. ([Live Demo](#) | [Source Code](https://github.com/chedi-ouerghi/Bigscreen))
+
