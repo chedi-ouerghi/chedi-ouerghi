@@ -6,13 +6,13 @@
 # 👋 Hello, I'm Chedi Ouerghi
 
 
-**Senior Full Stack Developer | Cloud Solutions Architect**
+**Junior Full Stack Developer | DevOps Enthusiast**
 
 ## Professional Summary
 
-I am **Chedi Ouerghi**, a results-driven **Full Stack Developer** with extensive experience in architecting and implementing enterprise-grade web applications, mobile solutions, and desktop platforms. My expertise spans the complete software development lifecycle, with particular proficiency in crafting high-performance, scalable systems that deliver exceptional user experiences.
+I'm Chedi Ouerghi **Full Stack Developer** with strong knowledge in DevOps practices and extensive experience in architecting and implementing enterprise-grade web applications, mobile solutions, and desktop platforms. My expertise spans the complete software development lifecycle, with particular proficiency in crafting high-performance, scalable systems that deliver exceptional user experiences.
 
-With comprehensive knowledge of both frontend and backend ecosystems, I specialize in building seamless, end-to-end digital solutions that combine technical excellence with intuitive design. My work emphasizes clean architecture patterns, robust API design, and optimized performance across all technology stacks.
+With comprehensive knowledge of both frontend and backend ecosystems, I specialize in building seamless, end-to-end digital solutions that combine technical excellence with intuitive design. My work emphasizes clean architecture patterns, robust API design, automated workflows, and optimized performance across all technology stacks.
 
 **📫 Let's Connect**
 
@@ -26,7 +26,6 @@ With comprehensive knowledge of both frontend and backend ecosystems, I speciali
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ### Backend
