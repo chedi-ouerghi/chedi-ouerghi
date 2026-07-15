@@ -1,56 +1,342 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180"/>
+
+# 👋 Hi, I'm Chedi Ouerghi
+
+### Full Stack & AI Engineer
+
+**Designing scalable backend architectures, AI-powered applications, and modern web experiences.**
+
+<p>
+
+<a href="https://chedi-portfolio-2026.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:chediouerghi40@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chedi-ouerghi-21860a24a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/chedi-ouerghi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;AI+Engineer;NestJS+%7C+Next.js+%7C+FastAPI;Building+Scalable+Software;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies"/>
+
 </div>
 
+---
 
-# 👋 Hello, I'm Chedi Ouerghi
+# 💡 About Me
 
+I'm a **Full Stack & AI Engineer** passionate about building scalable software systems, modern backend architectures, and AI-powered products.
 
-**Junior Full Stack Developer | DevOps Enthusiast**
+My expertise covers the entire software development lifecycle—from designing intuitive user interfaces with **React** and **Next.js** to developing secure backend services with **NestJS**, **FastAPI**, and **PostgreSQL**.
 
-## Professional Summary
+I enjoy solving complex engineering challenges through clean architecture, scalable microservices, workflow automation, and modern development practices.
 
-I'm Chedi Ouerghi **Full Stack Developer** with strong knowledge in DevOps practices and extensive experience in architecting and implementing enterprise-grade web applications, mobile solutions, and desktop platforms. My expertise spans the complete software development lifecycle, with particular proficiency in crafting high-performance, scalable systems that deliver exceptional user experiences.
+Currently, I'm expanding my expertise in **Artificial Intelligence**, **Large Language Models**, **Distributed Systems**, and **Cloud-Native Architectures** while building production-ready applications.
 
-With comprehensive knowledge of both frontend and backend ecosystems, I specialize in building seamless, end-to-end digital solutions that combine technical excellence with intuitive design. My work emphasizes clean architecture patterns, robust API design, automated workflows, and optimized performance across all technology stacks.
+---
 
-**📫 Let's Connect**
+# 🚀 Current Focus
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-2025-tan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chedi-ouerghi-21860a24a/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chediouerghi40@gmail.com)
+- 🧠 Artificial Intelligence & NLP
+- ⚡ Enterprise Backend Development
+- 🚀 Next.js 15 Applications
+- 🏗 Clean Architecture
+- 🔐 Authentication & Security
+- 📡 Real-Time Systems
+- 🐳 Docker & DevOps
+- ☁ Cloud Native Applications
+- 📈 System Design
+- 🤖 Workflow Automation
 
-## 🛠 Tech Stack
+---
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+# 🏗 Engineering Principles
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- Clean Architecture
+- SOLID Principles
+- REST API Design
+- Microservices
+- Domain-Driven Design
+- Performance First
+- Security by Design
+- Test-Driven Development
+- CI/CD Automation
+- Developer Experience
 
-### DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+---
 
-## 📈 GitHub Stats
+# 💻 Tech Stack
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chedi-ouerghi&show_icons=true&theme=radical)
+## Frontend
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chedi-ouerghi&layout=compact&theme=radical)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+</p>
 
-## 🚀 Latest Projects
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Zustand
+- TanStack Query
+- Server Components
+- SSR
+- ISR
 
-1. **[Flat Booker Pro](https://github.com/chedi-ouerghi/flat-booker-pro)** - A comprehensive real estate booking platform featuring property listings, reservation management, and payment integration. Built with modern web technologies to deliver seamless user experiences. ([Live Demo](#) | [Source Code](https://github.com/chedi-ouerghi/flat-booker-pro))
+---
 
-2. **[Weather Analytics Dashboard](https://github.com/chedi-ouerghi/weather_app)** - Real-time weather application providing detailed forecasts, historical data visualization, and location-based alerts. Implemented with accurate meteorological data APIs. ([Live Demo](#) | [Source Code](https://github.com/chedi-ouerghi/weather_app))
+## Backend
 
-3. **[BigScreen Survey Platform](https://github.com/chedi-ouerghi/Bigscreen)** - Enterprise-grade survey solution for BigScreen Corporation, enabling large-scale data collection, analytics dashboard, and automated reporting features. ([Live Demo](#) | [Source Code](https://github.com/chedi-ouerghi/Bigscreen))
+<p>
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,python,graphql" />
+</p>
 
+- NestJS
+- Node.js
+- Express.js
+- FastAPI
+- REST APIs
+- GraphQL
+- JWT Authentication
+- OAuth2
+- WebSockets
+- Microservices
+
+---
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+- PostgreSQL
+- Prisma ORM
+- TypeORM
+- Redis
+- SQLAlchemy
+
+---
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux" />
+</p>
+
+- Docker
+- Git
+- GitHub Actions
+- Linux
+- AWS
+- CI/CD
+- Nginx
+
+---
+
+## AI & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- FastAPI
+- NLP
+- Transformers
+- CV Parsing
+- Workflow Automation
+- n8n
+- AI APIs
+
+---
+
+## Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps" />
+</p>
+
+- Figma
+- Adobe Photoshop
+
+---
+
+# 💼 Professional Experience
+
+## 🚀 Full Stack Developer Intern — Elepzia
+
+**March 2025 — August 2025**
+
+- Developed scalable backend services using **NestJS** and **PostgreSQL**.
+- Built a complete administration dashboard with **Next.js**.
+- Implemented secure authentication, RBAC, and KYC verification.
+- Designed RESTful APIs for users, teams, hackathons, and administration.
+- Developed real-time chat, voice, and video communication using WebSockets.
+- Participated in Docker deployment, CI/CD pipelines, Agile workflows, and code reviews.
+
+---
+
+## 🧠 Backend & Machine Learning Developer — Sagemcom
+
+**August 2025 — September 2025**
+
+- Built an AI-powered CV-to-job matching platform.
+- Developed APIs using FastAPI and PostgreSQL.
+- Implemented NLP-based CV parsing.
+- Optimized backend performance and asynchronous processing.
+- Built an admin dashboard using React and TypeScript.
+
+---
+
+# 🚀 Featured Projects
+
+## 🏓 Padel Reservation Platform
+
+A production-ready reservation platform built using **NestJS**, **Next.js**, **PostgreSQL**, and **Prisma**.
+
+### Highlights
+
+- Role-Based Access Control
+- Booking Engine
+- Match Scheduling
+- Notifications
+- Docker Deployment
+- Jest Testing
+- Supertest Integration
+- Clean Architecture
+
+---
+
+## 💬 Real-Time Communication Platform
+
+Modern communication platform featuring scalable backend architecture.
+
+### Highlights
+
+- Real-Time Messaging
+- Voice Messages
+- Audio Calls
+- Video Calls
+- WebSockets
+- Redis
+- Authentication
+- Typing Indicators
+- Read Receipts
+- Presence System
+
+---
+
+## 🧠 VitaMind
+
+AI-powered mental health platform focused on emotional analysis and intelligent assistance.
+
+### Highlights
+
+- Emotion Detection
+- NLP
+- AI Assistant
+- Psychologist Dashboard
+- Patient Management
+- FastAPI
+- NestJS
+- Next.js
+- PostgreSQL
+- Docker
+- Microservices
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chedi-ouerghi&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chedi-ouerghi&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=chedi-ouerghi&theme=github-dark&hide_border=true"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=chedi-ouerghi&theme=algolia&no-frame=true&margin-w=8&margin-h=8"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- MCP Servers
+- Distributed Systems
+- Event-Driven Architecture
+- Kubernetes
+- Advanced System Design
+
+---
+
+# 🎯 Career Objective
+
+My goal is to contribute to ambitious engineering teams building products that impact millions of users.
+
+I'm particularly interested in:
+
+- Artificial Intelligence
+- Backend Engineering
+- Distributed Systems
+- Developer Platforms
+- Cloud Infrastructure
+- High-Performance APIs
+- Modern Web Technologies
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:chediouerghi40@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chedi-ouerghi-21860a24a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://chedi-portfolio-2026.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/chedi-ouerghi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💬 Favorite Quote
+
+> **"Great software isn't just about writing code. It's about designing systems that are scalable, maintainable, secure, and create meaningful impact."**
+
+---
+
+⭐ **Thank you for visiting my GitHub profile. Feel free to explore my repositories, collaborate on exciting projects, or connect with me to discuss software engineering, backend architecture, and Artificial Intelligence.**
+
+![](https://komarev.com/ghpvc/?username=chedi-ouerghi&style=for-the-badge&color=2563EB)
+
+</div>
