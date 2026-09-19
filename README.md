@@ -266,10 +266,7 @@ AI-powered mental health platform focused on emotional analysis and intelligent 
 
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chedi-ouerghi&layout=compact&theme=github_dark&hide_border=true&hide=html,css"/>
 
-<!-- Graphique d'activité alternatif via Platane (Généré automatiquement) -->
-<img width="800" src="https://raw.githubusercontent.com/chedi-ouerghi/chedi-ouerghi/main/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
-<!-- Streak Stats à la place des Trophées (Plus fiable) -->
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chedi-ouerghi&theme=github-dark&hide_border=true"/>
 
 </div>
