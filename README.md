@@ -96,11 +96,6 @@ A communication system with messaging, voice and video calls, presence, typing i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chedi-ouerghi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=22d3ee" alt="Chedi's GitHub statistics" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chedi-ouerghi&layout=compact&hide_border=true&langs_count=8&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" alt="Top languages" height="180" />
-
-<br />
-
 <img src="https://streak-stats.demolab.com?user=chedi-ouerghi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=22d3ee&currStreakLabel=e2e8f0" alt="GitHub contribution streak" />
 
 <br /><br />
