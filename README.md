@@ -262,13 +262,15 @@ AI-powered mental health platform focused on emotional analysis and intelligent 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chedi-ouerghi&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=chedi-ouerghi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chedi-ouerghi&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chedi-ouerghi&layout=compact&theme=github_dark&hide_border=true&hide=html,css"/>
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=chedi-ouerghi&theme=github-dark&hide_border=true"/>
+<!-- Graphique d'activité alternatif via Platane (Généré automatiquement) -->
+<img width="800" src="https://raw.githubusercontent.com/chedi-ouerghi/chedi-ouerghi/main/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=chedi-ouerghi&theme=algolia&no-frame=true&margin-w=8&margin-h=8"/>
+<!-- Streak Stats à la place des Trophées (Plus fiable) -->
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=chedi-ouerghi&theme=github-dark&hide_border=true"/>
 
 </div>
 
