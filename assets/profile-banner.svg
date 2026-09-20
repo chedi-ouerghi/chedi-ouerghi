@@ -1,0 +1,37 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09111F"/>
+      <stop offset="0.58" stop-color="#102A43"/>
+      <stop offset="1" stop-color="#0B6477"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="80" y1="80" x2="1110" y2="265" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#FF7657"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#B9E6F2" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="8" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="8" fill="url(#grid)"/>
+  <path d="M0 258H1200" stroke="#22D3EE" stroke-opacity="0.28"/>
+  <path d="M0 258C180 220 260 294 440 253C625 211 735 288 910 244C1040 211 1122 236 1200 220" stroke="url(#accent)" stroke-width="3"/>
+  <path d="M82 72H304" stroke="#FF7657" stroke-width="4"/>
+  <circle cx="82" cy="72" r="6" fill="#FF7657"/>
+
+  <text x="82" y="137" fill="#8EA8B9" font-family="Verdana, sans-serif" font-size="16" letter-spacing="4">FULL STACK / APPLIED AI / PRACTICAL ML</text>
+  <text x="78" y="202" fill="#F4F8FB" font-family="Verdana, sans-serif" font-size="54" font-weight="700" letter-spacing="-2">CHEDI OUERGHI</text>
+  <text x="82" y="236" fill="#B9E6F2" font-family="Verdana, sans-serif" font-size="17">Building useful software around intelligent workflows.</text>
+
+  <g opacity="0.9">
+    <rect x="920" y="80" width="196" height="42" rx="4" fill="#0B1220" stroke="#22D3EE" stroke-opacity="0.7"/>
+    <text x="942" y="107" fill="#22D3EE" font-family="monospace" font-size="14">ship(useful_things)</text>
+    <rect x="920" y="136" width="196" height="42" rx="4" fill="#0B1220" stroke="#FF7657" stroke-opacity="0.7"/>
+    <text x="942" y="163" fill="#FF7657" font-family="monospace" font-size="14">model + product</text>
+  </g>
+
+  <text x="82" y="292" fill="#8EA8B9" font-family="monospace" font-size="13">TUNISIA // 2025 - PRESENT</text>
+  <text x="1116" y="292" text-anchor="end" fill="#8EA8B9" font-family="monospace" font-size="13">BUILD WITH CLARITY</text>
+</svg>

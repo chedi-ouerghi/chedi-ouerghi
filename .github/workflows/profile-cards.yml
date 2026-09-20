@@ -36,6 +36,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size,percentage
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
       - name: Prepare metrics artifact
         shell: bash

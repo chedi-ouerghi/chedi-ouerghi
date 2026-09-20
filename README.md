@@ -1,119 +1,141 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=230&section=header&text=Chedi%20Ouerghi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Development%20%7C%20Applied%20AI%20%7C%20Practical%20ML&descAlignY=60&descSize=16" alt="Chedi Ouerghi banner" width="100%" />
-
-### I turn practical ideas into reliable web and AI-powered products.
-
-I build the product around the model: solid APIs, clear data flows, useful interfaces, and automation that can be maintained.
+<img src="./assets/profile-banner.svg" alt="Chedi Ouerghi - Full Stack Developer, Applied AI and Practical ML" width="100%" />
 
 <p>
-  <a href="https://chedi-portfolio-2026.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/chedi-ouerghi-21860a24a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:chediouerghi40@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/chedi-ouerghi"><img src="https://img.shields.io/github/followers/chedi-ouerghi?style=for-the-badge&logo=github&label=Follow" alt="GitHub followers" /></a>
+  <a href="https://chedi-portfolio-2026.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0b1220?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/chedi-ouerghi-21860a24a/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chediouerghi40@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA5B4D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
 
----
+<br />
 
-## The short version
+## I build the layer between an idea and a useful product.
 
-I am a **Full Stack Developer** focused on backend systems, modern web applications, and applied AI. I integrate AI models into useful workflows and build simple machine-learning features when they solve a real product problem.
+I am a **Full Stack Developer** working across backend systems, modern web interfaces, applied AI, and practical machine learning. I integrate models where they improve a real workflow, then build the APIs, data flows, interfaces, and automation around them.
 
-My strongest contribution is connecting the pieces: a clean API, a well-designed data model, a responsive interface, and an AI or ML capability that users can actually trust and use.
+I am not trying to make every product sound like research. My strength is turning a technical capability into something structured, testable, and usable.
 
-> **My edge:** I do not start with "where can I put AI?" I start with the workflow, then choose the simplest technology that makes it better.
+> **The rule I build by:** start with the workflow, choose the simplest intelligent solution, and make the surrounding software dependable.
 
-## Currently focused on
+## What I bring
 
-| Area | What I build |
-| :--- | :--- |
-| **Full Stack Products** | React and Next.js interfaces backed by secure, maintainable APIs |
-| **Backend Engineering** | NestJS and FastAPI services, PostgreSQL data models, authentication, real-time features |
-| **Applied AI** | Model integrations, NLP workflows, CV parsing, intelligent assistants, and automation |
-| **Practical ML** | Data preparation, classification and matching features, evaluation, and API delivery |
-| **Production Foundations** | Docker, CI/CD, asynchronous jobs, Redis, testing, and cloud-ready deployments |
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Selected work
+### 01 / Product systems
 
-### AI-powered CV-to-job matching
+Full stack features that feel coherent from the first click to the database.
 
-Built a platform that parses CVs and helps match profiles to opportunities using **FastAPI, PostgreSQL, NLP, and asynchronous processing**. The project combines a practical ML workflow with a React and TypeScript administration dashboard.
+`React` `Next.js` `TypeScript` `NestJS`
 
-### VitaMind
+</td>
+<td width="33%" valign="top">
 
-An AI-powered mental health platform combining emotional analysis, an AI assistant, psychologist tooling, and patient management. Built with **FastAPI, NestJS, Next.js, PostgreSQL, Docker, and microservices**.
+### 02 / Applied intelligence
 
-### Padel reservation platform
+Model integrations, NLP workflows, CV parsing, assistants, and automation with a clear product purpose.
 
-A complete reservation product with **NestJS, Next.js, PostgreSQL, and Prisma**, including role-based access, booking flows, match scheduling, notifications, testing, and Docker deployment.
+`Python` `FastAPI` `NLP` `AI APIs`
 
-### Real-time communication platform
+</td>
+<td width="33%" valign="top">
 
-A communication system with messaging, voice and video calls, presence, typing indicators, read receipts, and Redis-backed real-time infrastructure.
+### 03 / Reliable foundations
+
+Auth, roles, real-time communication, async processing, testing, containers, and deployable APIs.
+
+`PostgreSQL` `Redis` `Docker` `CI/CD`
+
+</td>
+</tr>
+</table>
+
+## Selected builds
+
+<table>
+<tr>
+<th align="left">Build</th>
+<th align="left">What it proves</th>
+<th align="left">Core stack</th>
+</tr>
+<tr>
+<td><strong>CV-to-job matching</strong><br /><sub>Applied AI / ML</sub></td>
+<td>CV parsing and profile matching delivered through asynchronous APIs and an administration dashboard.</td>
+<td><code>FastAPI</code><br /><code>PostgreSQL</code><br /><code>NLP</code></td>
+</tr>
+<tr>
+<td><strong>VitaMind</strong><br /><sub>AI product</sub></td>
+<td>Emotional analysis, an AI assistant, psychologist tooling, and patient management in one product system.</td>
+<td><code>FastAPI</code><br /><code>NestJS</code><br /><code>Next.js</code></td>
+</tr>
+<tr>
+<td><strong>Padel platform</strong><br /><sub>Booking system</sub></td>
+<td>Role-based access, booking flows, match scheduling, notifications, tests, and Docker deployment.</td>
+<td><code>NestJS</code><br /><code>Prisma</code><br /><code>PostgreSQL</code></td>
+</tr>
+<tr>
+<td><strong>Communication platform</strong><br /><sub>Real-time systems</sub></td>
+<td>Messaging, voice and video calls, presence, typing indicators, read receipts, and Redis-backed events.</td>
+<td><code>WebSockets</code><br /><code>Redis</code><br /><code>Node.js</code></td>
+</tr>
+</table>
 
 ## Experience
 
-### Full Stack Developer Intern · Elepzia
-**March 2025 - August 2025**
+| Role | Scope |
+| :--- | :--- |
+| **Full Stack Developer Intern · Elepzia**<br /><sub>March 2025 - August 2025</sub> | NestJS and PostgreSQL services, Next.js administration, authentication, RBAC, KYC, REST APIs, real-time communication, Docker, and CI/CD. |
+| **Backend & Machine Learning Developer · Sagemcom**<br /><sub>August 2025 - September 2025</sub> | FastAPI and PostgreSQL APIs, NLP-based CV parsing, asynchronous processing, CV-to-job matching, and React administration features. |
 
-- Developed backend services with NestJS and PostgreSQL.
-- Built a Next.js administration dashboard with authentication, RBAC, and KYC verification.
-- Designed REST APIs and real-time chat, voice, and video features.
-- Worked with Docker, CI/CD, Agile delivery, and code reviews.
-
-### Backend & Machine Learning Developer · Sagemcom
-**August 2025 - September 2025**
-
-- Developed APIs for an AI-assisted CV-to-job matching platform.
-- Implemented NLP-based CV parsing with FastAPI and PostgreSQL.
-- Improved asynchronous processing and backend organization.
-- Built administration features with React and TypeScript.
-
-## Technology map
+## Toolbox
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B5CAD?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C99700?style=flat-square&logo=javascript&logoColor=111827)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-008F83?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-C0392B?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1677B7?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 </div>
 
-## GitHub activity
+## GitHub signal
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=chedi-ouerghi&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=22d3ee&currStreakLabel=e2e8f0" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=chedi-ouerghi&theme=tokyonight&hide_border=true&background=0b1220&ring=22d3ee&fire=ff7657&currStreakLabel=e7edf5&sideLabels=93a4b8&dates=93a4b8" alt="Chedi's GitHub contribution streak" />
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/chedi-ouerghi/chedi-ouerghi/output/metrics.svg" alt="GitHub metrics" width="820" />
+<img src="https://raw.githubusercontent.com/chedi-ouerghi/chedi-ouerghi/output/metrics.svg" alt="Chedi's GitHub metrics" width="100%" />
 
 <br /><br />
+
+<sub>Contribution rhythm, generated automatically from GitHub activity.</sub>
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chedi-ouerghi/chedi-ouerghi/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/chedi-ouerghi/chedi-ouerghi/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/chedi-ouerghi/chedi-ouerghi/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%" />
 </picture>
 
 </div>
 
-## Let's build something useful
+## Let's make something useful
 
-I am open to conversations about full stack products, backend architecture, applied AI, practical machine learning, and automation.
+Open to conversations about full stack products, backend architecture, applied AI, practical machine learning, and automation.
 
 <div align="center">
 
