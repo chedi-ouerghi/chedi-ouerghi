@@ -14,6 +14,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     name: generate-github-metrics-card
 
     steps:
@@ -25,10 +26,10 @@ jobs:
         with:
           filename: metrics.svg
           output_action: none
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: ${{ github.repository_owner }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: chedi-ouerghi
           template: classic
-          base: header, activity, repositories
+          base: header, activity, community, repositories
           config_timezone: Africa/Tunis
           config_output: svg
           config_display: large
@@ -49,6 +50,7 @@ jobs:
             find /metrics_renders -maxdepth 2 -type f -print 2>/dev/null || true
             exit 1
           fi
+          grep -q '<svg' /metrics_renders/metrics.svg
           cp /metrics_renders/metrics.svg metrics-dist/metrics.svg
 
       - name: Publish metrics card
