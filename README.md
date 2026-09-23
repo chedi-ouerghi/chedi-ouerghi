@@ -118,7 +118,7 @@ Auth, roles, real-time communication, async processing, testing, containers, and
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/chedi-ouerghi/chedi-ouerghi/output/metrics.svg" alt="Chedi's GitHub metrics" width="100%" />
+<img src="https://raw.githubusercontent.com/chedi-ouerghi/chedi-ouerghi/metrics/metrics.svg" alt="Chedi's GitHub metrics" width="100%" />
 
 <br /><br />
 
